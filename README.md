@@ -1,1 +1,1 @@
-<h3 align="center">A student developer at Epitech Nantes</h3>
+<h3 align="center">Student developer at Epitech Nantes</h3>
